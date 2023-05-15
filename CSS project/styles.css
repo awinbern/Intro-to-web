@@ -1,0 +1,21 @@
+                                                        img {
+                                                            width: 20px;
+                                                            margin: auto
+                                                        }
+                                                        
+                                                        nav {
+                                                            border-width: 5px;
+                                                            background-color: #361500;
+                                                        }
+                                                        
+                                                        .nav-edit {
+                                                            text-align: center;
+                                                            color: wheat;
+                                                            font-style: opensans;
+                                                        }
+                                                        
+                                                        .wrapper {
+                                                            display: grid;
+                                                            grid-template-columns: 1fr 1fr;
+                                                            background-color: blueviolet;
+                                                        }
